@@ -1,0 +1,13 @@
+{
+  "name": "my-contacts-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo Santos",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
