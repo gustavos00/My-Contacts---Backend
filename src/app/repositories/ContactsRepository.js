@@ -37,8 +37,6 @@ class ContactsRepository {
         category_id,
       };
 
-      console.log(newContact);
-
       contacts.push(newContact);
       resolve(newContact);
     });
